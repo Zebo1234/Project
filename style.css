@@ -64,7 +64,7 @@ h2{
     margin-top: 15px;
 
 }
-#timer{
+#timediv{
     width: 36vw;
     height: 15vh;
     display: flex;
@@ -73,6 +73,20 @@ h2{
     border-radius: 10px;
     margin-top: 15px;
 
+}
+
+@media  (max-width :1000px){
+    #textdiv {
+        margin-left: 20px;
+        margin-top: 50px;
+        min-width: 100px;
+        display: flex;
+
+    }
+    img{
+        margin: 0;
+        width: 100%;
+    }
 }
 #day{
 
@@ -134,7 +148,7 @@ h2{
 
 }
 
-#mttt{
+#dhms{
     display: flex;
     justify-content: center;
     align-items: center;
