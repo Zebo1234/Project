@@ -26,14 +26,12 @@ section{
 
 
 #imagediv{
-
     width: 43vw;
     height: 70vh;
     border-radius: 20px;
 
 }
-#textdiv{
-
+#txtdiv{
     width: 38vw;
     height: 70vh;
 
@@ -42,6 +40,7 @@ img{
     width: 43vw;
     height: 70vh;
     border-radius: 20px;
+
 }
 h2{
     letter-spacing: 3px;
@@ -51,11 +50,11 @@ h2{
 
 }
 #giveaway{
-
     font-weight: bold;
     letter-spacing: 2px;
     color: dodgerblue;
     margin-top: 15px;
+    
 }
 #text
 {
