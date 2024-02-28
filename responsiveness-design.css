@@ -1,0 +1,17 @@
+/* Responsiveness for Tablet */
+@media (max-width:52em){
+
+}
+/* Responsive Design for Smartphones */
+@media(max-width:37em){
+#maindiv{
+    display: flex;
+    flex-direction: column;
+    height: 160vh;
+    
+
+}
+#imagediv{
+    width: 
+}
+}
