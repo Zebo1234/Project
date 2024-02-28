@@ -76,12 +76,12 @@ h2{
 }
 
 @media  (max-width :1000px){
-    #textdiv {
+    #Maindiv {
         margin-left: 20px;
         margin-top: 50px;
         min-width: 100px;
         display: flex;
-
+        flex-flow: wrap;
     }
     img{
         margin: 0;
