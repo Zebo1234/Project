@@ -46,7 +46,7 @@ img{
 h2{
     letter-spacing: 3px;
     word-spacing: 2px;
-    color: #e06d5c;
+    color: white;
     margin-top: 55px;
 
 }
@@ -54,13 +54,13 @@ h2{
 
     font-weight: bold;
     letter-spacing: 2px;
-    color: #852828;
+    color: dodgerblue;
     margin-top: 15px;
 }
 #lorem
 {
     line-height: 23px;
-    color: #e06d5c;
+    color: white;
     margin-top: 15px;
 
 }
@@ -92,7 +92,7 @@ h2{
 
     height: 15vh;
     width: 7vw;
-    background-color: #852828;
+    background-color: dodgerblue;
     border-radius: 10px;
     display: flex;
     align-items: center;
@@ -104,7 +104,7 @@ h2{
 
     height: 15vh;
     width: 7vw;
-    background-color: #852828;
+    background-color: dodgerblue;
     border-radius: 10px;
     display: flex;
     align-items: center;
@@ -116,7 +116,7 @@ h2{
 
     height: 15vh;
     width: 7vw;
-    background-color: #852828;
+    background-color: dodgerblue;
     border-radius: 10px;
     display: flex;
     align-items: center;
@@ -128,7 +128,7 @@ h2{
 
     height: 15vh;
     width: 7vw;
-    background-color: #852828;
+    background-color: dodgerblue;
     border-radius: 10px;
     display: flex;
     align-items: center;
