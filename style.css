@@ -46,7 +46,7 @@ img{
 h2{
     letter-spacing: 3px;
     word-spacing: 2px;
-    color: white;
+    color:white;
     margin-top: 55px;
 
 }
@@ -57,14 +57,14 @@ h2{
     color: dodgerblue;
     margin-top: 15px;
 }
-#lorem
+#text
 {
     line-height: 23px;
     color: white;
     margin-top: 15px;
 
 }
-#timediv{
+#timerdiv{
     width: 36vw;
     height: 15vh;
     display: flex;
@@ -73,20 +73,6 @@ h2{
     border-radius: 10px;
     margin-top: 15px;
 
-}
-
-@media  (max-width :1000px){
-    #Maindiv {
-        margin-left: 20px;
-        margin-top: 50px;
-        min-width: 100px;
-        display: flex;
-        flex-flow: wrap;
-    }
-    img{
-        margin: 0;
-        width: 100%;
-    }
 }
 #day{
 
