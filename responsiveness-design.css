@@ -43,11 +43,12 @@ h2{
 #day , #hour, #min, #sec{
     height: 13vh;
     width: 16vw;
-    
+
 }
 }
+
 /* Responsive Design for Smartphones */
-@media (max-width:37em){
+@media (max-width:37em) and (min-width: 22em){
 #maindiv{
     display: flex;
     flex-direction: column;
@@ -93,4 +94,52 @@ h2{
     width: 16vw;
 
 }
+}
+
+@media (max-width:21em){
+    #maindiv{
+        display: flex;
+        flex-direction: column;
+        height: 150vh;
+        width: 100vw;
+        justify-content: space-around;
+    
+    }
+    #imagediv{
+        height: 40vh;
+        width: 60vw;
+    
+    }
+    img{
+        height: 40vh;
+        width: 60vw;
+    
+    }
+    #txtdiv{
+        height:50vh ;
+        width: 85vw;
+    
+    }
+    h2{
+        margin-top: -110px;
+        font-size: 25px;
+    
+    }
+    #giveaway{
+        font-size: 15px;
+    
+    }
+    #txt{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    #timerdiv{
+        width: 85vw;
+    
+    }
+    #day , #hour, #min, #sec{
+        height: 15vh;
+        width: 20vw;
+    
+    }
 }
