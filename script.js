@@ -1,6 +1,6 @@
 const currentTime = new Date().getFullYear();
 
-const newDate = new Date(`March 10 ${currentTime} 00:00:00`);
+const newDate = new Date(`March 25 ${currentTime} 12:00:00`);
 
 const daynumber = document.getElementById("daynum");
 const hournumber = document.getElementById("hrnum");
