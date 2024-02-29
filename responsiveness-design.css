@@ -3,7 +3,7 @@
 
 }
 /* Responsive Design for Smartphones */
-@media(max-width:37em){
+@media (max-width:37em){
 #maindiv{
     display: flex;
     flex-direction: column;
